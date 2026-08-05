@@ -4,6 +4,6 @@
 
 - Link: https://leetcode.com/problems/palindrome-number/
 
-- Time Complexity: O(n)
+- Time Complexity: O(logn)
 
 - Space Complexity: O(1)
